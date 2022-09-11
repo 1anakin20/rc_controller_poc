@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RC controller</string>
+    <string name="forward_button">Forward</string>
+    <string name="reverse_button">Reverse</string>
+    <string name="left_button">Left</string>
+    <string name="right_button">Right</string>
+    <string name="connection_button">Connection</string>
+    <string name="ipLabel">IP address</string>
+    <string name="ipText">IP</string>
+    <string name="connectButton">Connect</string>
+    <string name="disconnectButton">Disconnect</string>
+</resources>
